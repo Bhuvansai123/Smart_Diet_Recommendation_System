@@ -1,0 +1,8 @@
+1. Unzip this folder.
+2. Create a new public GitHub repository.
+3. Upload all files from this folder.
+4. Open Streamlit Community Cloud.
+5. Click Create app.
+6. Select your repo and branch.
+7. Use main file path: Streamlit_Frontend/Hello.py
+8. Click Deploy.
